@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-react-app",
+
+  "rules": {
+    "semi": ["warn", "never"],
+    "quotes": ["off"],
+    "@typescript-eslint/consistent-type-assertions": ["off"],
+    "consistent-type-assertions": ["off"]
+  }
+}
